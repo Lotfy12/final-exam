@@ -1,9 +1,18 @@
-* {
+/* * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-}
+} */
 
 body {
   font-family: sans-serif;
+  background-color: aqua;
+}
+
+button {
+  color: bisque;
+  background-color: darkgrey;
+  border-radius: 25px;
+  margin: 300px 300px;
+  font-size: 50px;
 }
